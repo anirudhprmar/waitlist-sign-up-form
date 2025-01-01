@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   themeColor: '#0f172a',
   openGraph: {
     title: 'Join Our Waitlist',
-    description: 'Be the first to know when we launch. Join our exclusive waitlist today.',
+    description: 'Be the first to know when we launch.',
     type: 'website',
     locale: 'en_US',
     url: 'https://your-domain.com',
